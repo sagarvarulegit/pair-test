@@ -5,7 +5,7 @@
 `mvn exec:java -Dexec.mainClass="com.example.MajorityElement"`
 ### 3. Run the tests
 `mvn test`
-### Tests are located at src/test/java/com/example/MajorityElementTest.java
+### Tests are located at `src/test/java/com/example/MajorityElementTest.java`
 
 ### Latest Test Run Results:
 ![image](pairtest-build.png)
