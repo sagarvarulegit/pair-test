@@ -6,3 +6,6 @@
 ### 3. Run the tests
 `mvn test`
 ### Tests are located at src/test/java/com/example/MajorityElementTest.java
+
+### Latest Test Run Results:
+![image](pairtest-build.png)
